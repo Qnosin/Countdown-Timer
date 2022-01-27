@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url('./img/photo-1467810563316-b5476525c0f9.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
