@@ -43,16 +43,6 @@ body h1{
     text-align: center;
     border-radius: 10px;
 }
-
-.hours h2{
-}
-.minutes{
-
-}
-.seconds{
-
-}
-
 /* media queries */
 @media screen and (max-width:1380px){
     .container{
